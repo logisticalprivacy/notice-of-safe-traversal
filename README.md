@@ -1,6 +1,6 @@
 # Notice of safe traversal
 
-This document provides plausible deniability at crossing points into and out of authoritarian countries.
+This document provides plausible deniability for device passwords at crossing points into and out of authoritarian countries.
 
 To use this document:
 
