@@ -4,7 +4,7 @@ This document provides plausible deniability at crossing points into and out of 
 
 To use this document:
 
-* Print out the PDF
+* Print out the PDF.
 
 * Come up with a strong new device password and divide it into three parts. Do *not* memorize the new password.
 
